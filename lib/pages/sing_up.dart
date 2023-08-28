@@ -47,6 +47,7 @@ class _SingUpPageState extends State<SingUpPage> {
                 child: Column(
                   children: [
                     // Text filed to Email
+                    // text filed 2 for maail
                     TextField(
                       decoration: InputDecoration(
                         hintText: 'username@example.com',
